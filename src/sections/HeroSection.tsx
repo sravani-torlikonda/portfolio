@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react'
 import gsap from 'gsap'
-import { Linkedin, Mail, Phone, ChevronDown } from 'lucide-react'
+import { Linkedin, Mail, Github, ChevronDown } from 'lucide-react'
 import { ParticleNetworkCanvas } from '@/components/ParticleNetworkCanvas'
 
 export function HeroSection() {
