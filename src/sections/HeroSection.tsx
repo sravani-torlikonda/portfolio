@@ -104,7 +104,14 @@ export function HeroSection() {
           <button onClick={scrollToProjects} className="gold-glow-btn">
             View My Work
           </button>
-          <button className="outline-btn">Download Resume</button>
+        
+          <a
+            href="/assets/Sravani_Resume.pdf"
+            download="Sravani_Torlikonda_Resume.pdf"
+            className="outline-btn"
+          >
+            Download Resume
+          </a>
         </div>
 
         {/* Social Links */}
