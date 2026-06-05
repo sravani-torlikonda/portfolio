@@ -109,7 +109,7 @@ export function AboutSection() {
             {/* Stats */}
             <div ref={statsRef} className="flex gap-12 mt-12">
               <div>
-                <span className="font-display font-bold text-[32px] text-gold">8.29</span>
+                <span className="font-display font-bold text-[32px] text-gold">8.44</span>
                 <p className="font-mono text-[11px] text-text-muted uppercase tracking-wider mt-1">
                   CGPA
                 </p>
