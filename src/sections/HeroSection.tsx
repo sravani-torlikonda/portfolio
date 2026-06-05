@@ -124,10 +124,10 @@ export function HeroSection() {
             <Mail size={22} />
           </a>
           <a
-            href="tel:+917093637271"
+            href="https://github.com/sravani-torlikonda"
             className="hero-social opacity-0 text-text-muted hover:text-gold transition-colors duration-300"
           >
-            <Phone size={22} />
+            <Github size={22} />
           </a>
         </div>
       </div>
